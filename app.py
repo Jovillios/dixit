@@ -33,7 +33,7 @@ if search_button:
         )
 
         # Embed the video
-        if res:
+        if res and len(res) == 2:
             # st.video supports YouTube links directly
             url = res[0]
             start_time = int(res[1])
