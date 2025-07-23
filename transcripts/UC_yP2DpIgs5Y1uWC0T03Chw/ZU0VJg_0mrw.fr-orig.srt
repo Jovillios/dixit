@@ -1,0 +1,936 @@
+1
+00:00:00,570 --> 00:00:04,600
+[Musique]
+
+2
+00:00:02,459 --> 00:00:06,100
+aujourd'hui je vais tester un jeu dont
+
+3
+00:00:04,600 --> 00:00:13,900
+l'univers n'a de secret pour personne
+
+4
+00:00:06,100 --> 00:00:16,059
+c'est à dire la ce battle ben quoi ça
+
+5
+00:00:13,900 --> 00:00:18,690
+vous dit rien bâle est ok d'accord et si
+
+6
+00:00:16,059 --> 00:00:18,690
+je vous demande ça alors
+
+7
+00:00:23,510 --> 00:00:25,990
+wasquehal
+
+8
+00:00:26,510 --> 00:00:30,380
+petit écran
+
+9
+00:00:27,850 --> 00:00:33,040
+[Musique]
+
+10
+00:00:30,380 --> 00:00:34,800
+ça
+
+11
+00:00:33,040 --> 00:00:35,870
+survivant de l'enfer
+
+12
+00:00:34,800 --> 00:00:38,530
+j'aime bien
+
+13
+00:00:35,870 --> 00:00:40,760
+souvent voir
+
+14
+00:00:38,530 --> 00:00:42,610
+le gars m'ont dit
+
+15
+00:00:40,760 --> 00:00:44,380
+2
+
+16
+00:00:42,610 --> 00:00:46,630
+les bandits
+
+17
+00:00:44,380 --> 00:00:48,940
+et oui là ce battle est tirée du célèbre
+
+18
+00:00:46,630 --> 00:00:50,650
+manga hokuto no ken plus connu chez nous
+
+19
+00:00:48,940 --> 00:00:52,630
+sous le nom de ken le survivant
+
+20
+00:00:50,650 --> 00:00:54,460
+bien sûr tout le monde connaît ken le
+
+21
+00:00:52,630 --> 00:00:56,290
+survivant depuis la diffusion paul émile
+
+22
+00:00:54,460 --> 00:00:58,510
+de la série rapport à la violence à la
+
+23
+00:00:56,290 --> 00:00:59,020
+fin des années 80 ou à cause de la
+
+24
+00:00:58,510 --> 00:01:06,280
+censure
+
+25
+00:00:59,020 --> 00:01:07,660
+un épisode passé de 22 à 15 minutes avec
+
+26
+00:01:06,280 --> 00:01:09,610
+du recul les doublages était aussi
+
+27
+00:01:07,660 --> 00:01:11,350
+épouvantable que charmant en fait le
+
+28
+00:01:09,610 --> 00:01:13,120
+caractère assez hardcore de la série rob
+
+29
+00:01:11,350 --> 00:01:14,500
+était vraiment les doubleurs et du coup
+
+30
+00:01:13,120 --> 00:01:16,090
+ils se sont mis en grève et de retenir
+
+31
+00:01:14,500 --> 00:01:18,700
+le taf qu'à la condition que ce soit eux
+
+32
+00:01:16,090 --> 00:01:20,260
+qui adapte les doubles à leur sauce et
+
+33
+00:01:18,700 --> 00:01:22,150
+chose impensable aujourd'hui ce fut
+
+34
+00:01:20,260 --> 00:01:23,500
+acceptée vous imaginez l'embrouillé de
+
+35
+00:01:22,150 --> 00:01:26,650
+faire ça aujourd'hui avec un one piece
+
+36
+00:01:23,500 --> 00:01:28,180
+naruto aucune chance ce qui provoque de
+
+37
+00:01:26,650 --> 00:01:29,500
+nos jours la colère des puristes ou
+
+38
+00:01:28,180 --> 00:01:31,210
+l'hilarité chez les autres ça dépend
+
+39
+00:01:29,500 --> 00:01:32,350
+directement de se venger et quels
+
+40
+00:01:31,210 --> 00:01:32,880
+secrets se cachent sous le voile de la
+
+41
+00:01:32,350 --> 00:01:35,229
+mariée
+
+42
+00:01:32,880 --> 00:01:37,540
+de nos jours le manga est toujours aussi
+
+43
+00:01:35,229 --> 00:01:39,369
+populaire surtout au japon où la licence
+
+44
+00:01:37,540 --> 00:01:39,910
+a été adapté en plusieurs produits
+
+45
+00:01:39,369 --> 00:01:42,009
+dérivés
+
+46
+00:01:39,910 --> 00:01:44,170
+une nouvelle série animée des zouaves et
+
+47
+00:01:42,009 --> 00:02:01,000
+des figurines et bien sûr des jeux vidéo
+
+48
+00:01:44,170 --> 00:02:03,819
+et même comble du truc en pachinko alors
+
+49
+00:02:01,000 --> 00:02:05,679
+et on sent vraiment le ca bon revenons à
+
+50
+00:02:03,819 --> 00:02:07,539
+notre jeu donc là ce battle où ken le
+
+51
+00:02:05,679 --> 00:02:12,899
+survivant comme vous préférez est tiré
+
+52
+00:02:07,539 --> 00:02:12,899
+de l'animé hokuto no ken 2 de 1987
+
+53
+00:02:13,610 --> 00:02:18,120
+animé qui n'a jamais été diffusé en
+
+54
+00:02:15,870 --> 00:02:19,590
+france le jeu sera distribué chez nous
+
+55
+00:02:18,120 --> 00:02:21,660
+comme dans les autres pays hors japon
+
+56
+00:02:19,590 --> 00:02:26,160
+c'est-à-dire sous le nom de l'as battle
+
+57
+00:02:21,660 --> 00:02:29,160
+est pas hokuto no ken shinsei qui matent
+
+58
+00:02:26,160 --> 00:02:31,680
+feud say it shows des soirées bolas
+
+59
+00:02:29,160 --> 00:02:33,300
+battles est très bien en fait au revoir
+
+60
+00:02:31,680 --> 00:02:35,370
+les corps qui explose sous l'impulsion
+
+61
+00:02:33,300 --> 00:02:37,740
+du petit doigt les giclées de sang et
+
+62
+00:02:35,370 --> 00:02:38,850
+bonjour à l'occidentalisation en effet
+
+63
+00:02:37,740 --> 00:02:40,650
+pour plus de coller à nos stéréotypes
+
+64
+00:02:38,850 --> 00:02:43,200
+les noms et aussi les couleurs des
+
+65
+00:02:40,650 --> 00:02:45,090
+personnages ont tous été modifié adios
+
+66
+00:02:43,200 --> 00:02:46,650
+chine nouveaux galets kenshiro qui se
+
+67
+00:02:45,090 --> 00:02:49,230
+battent dans le tokyo apocalyptique du
+
+68
+00:02:46,650 --> 00:02:51,890
+futur et bienvenue à alice à michaele
+
+69
+00:02:49,230 --> 00:02:54,780
+arzacq qui se battent dans montélimar
+
+70
+00:02:51,890 --> 00:02:58,380
+exit hulk hogan et bonjour hull tout
+
+71
+00:02:54,780 --> 00:03:00,570
+court il nous avait déjà fait le coup
+
+72
+00:02:58,380 --> 00:03:02,700
+avec hokuto no ken sur master system qui
+
+73
+00:03:00,570 --> 00:03:04,530
+est devenu black belt où tout l'univers
+
+74
+00:03:02,700 --> 00:03:07,680
+de ken cède sa place à un environnement
+
+75
+00:03:04,530 --> 00:03:09,630
+de karaté de schiphol bon voilà donc
+
+76
+00:03:07,680 --> 00:03:11,100
+notre bon vieux keynes à te laraque et
+
+77
+00:03:09,630 --> 00:03:12,930
+en guise de jaquette on se tape ben
+
+78
+00:03:11,100 --> 00:03:19,290
+affleck qui frappe un crs armés d'une
+
+79
+00:03:12,930 --> 00:03:23,220
+broche d'euros teaser en caoutchouc ok
+
+80
+00:03:19,290 --> 00:03:34,380
+c'est parti les doigts tél ok alors
+
+81
+00:03:23,220 --> 00:03:36,390
+chapitre 1 dacor ac le point b le pied
+
+82
+00:03:34,380 --> 00:03:37,980
+et c'est pour le souk et donc les sons
+
+83
+00:03:36,390 --> 00:03:39,940
+sont un peu bizarres jeux séparés mais
+
+84
+00:03:37,980 --> 00:03:43,090
+bon quand qu'elle lève la patte
+
+85
+00:03:39,940 --> 00:03:47,120
+[Musique]
+
+86
+00:03:43,090 --> 00:03:48,830
+je sais j'ai ce prétendu le jeu est un
+
+87
+00:03:47,120 --> 00:03:50,900
+beat them all dans toute sa splendeur il
+
+88
+00:03:48,830 --> 00:03:53,030
+n'ya pas à réfléchir on avance et on
+
+89
+00:03:50,900 --> 00:03:54,769
+frappe n'y a que peu de différence entre
+
+90
+00:03:53,030 --> 00:03:56,599
+le point et le pied sinon la longueur de
+
+91
+00:03:54,769 --> 00:03:58,280
+la portée du cou qui de temps à autre
+
+92
+00:03:56,599 --> 00:04:04,160
+selon les ennemis peut faire la
+
+93
+00:03:58,280 --> 00:04:05,360
+différence mais regardez ça mais c'est
+
+94
+00:04:04,160 --> 00:04:07,069
+ridicule la façon dont ils sont affectés
+
+95
+00:04:05,360 --> 00:04:08,360
+de l'écran je veux dire dans la version
+
+96
+00:04:07,069 --> 00:04:10,400
+japonaise s'était beaucoup plus fun
+
+97
+00:04:08,360 --> 00:04:12,540
+quand même je veux bien qu'on retire le
+
+98
+00:04:10,400 --> 00:04:18,959
+côté violent mais là on dira astérix
+
+99
+00:04:12,540 --> 00:04:20,480
+[Musique]
+
+100
+00:04:18,959 --> 00:04:23,010
+tous
+
+101
+00:04:20,480 --> 00:04:25,020
+on a une barre de puissance qui augmente
+
+102
+00:04:23,010 --> 00:04:26,850
+à force de botter des culs et il ya
+
+103
+00:04:25,020 --> 00:04:29,100
+trois repères dessus dès qu'on franchit
+
+104
+00:04:26,850 --> 00:04:30,630
+un repère kane ou plutôt à arzacq
+
+105
+00:04:29,100 --> 00:04:32,250
+explose sa veste et tous pectoraux
+
+106
+00:04:30,630 --> 00:04:34,350
+dehors devient tous mes nerfs et à la
+
+107
+00:04:32,250 --> 00:04:36,150
+puissance de ses coups décuplée sur le
+
+108
+00:04:34,350 --> 00:04:37,140
+papier c'est sympa mais ces nouveaux
+
+109
+00:04:36,150 --> 00:04:38,550
+coups répondent différemment aux
+
+110
+00:04:37,140 --> 00:04:41,130
+projectiles ce qui a quand même tendance
+
+111
+00:04:38,550 --> 00:04:43,080
+à faire chier une fois le premier niveau
+
+112
+00:04:41,130 --> 00:04:45,360
+passé on se retrouve sur une carte où on
+
+113
+00:04:43,080 --> 00:04:47,070
+choisit son itinéraire la stratégie est
+
+114
+00:04:45,360 --> 00:04:48,930
+vraiment inexistante dans le sens où on
+
+115
+00:04:47,070 --> 00:04:50,460
+doit accéder obligatoirement à certains
+
+116
+00:04:48,930 --> 00:04:51,990
+animaux pour leur grade et qu'elle est
+
+117
+00:04:50,460 --> 00:04:53,160
+aussi du fait que pour venir à bout de
+
+118
+00:04:51,990 --> 00:04:54,930
+certains boss il faut être en position
+
+119
+00:04:53,160 --> 00:05:03,360
+vénère ce qu'il est possible qu'en
+
+120
+00:04:54,930 --> 00:05:04,830
+accumulant les combats le prévôt jégo le
+
+121
+00:05:03,360 --> 00:05:07,200
+jeu se compose de quatre chapitres
+
+122
+00:05:04,830 --> 00:05:09,300
+divisé en trois sortes de niveau li
+
+123
+00:05:07,200 --> 00:05:10,010
+boshu niveau très chiant et les niveaux
+
+124
+00:05:09,300 --> 00:05:12,510
+mortels
+
+125
+00:05:10,010 --> 00:05:14,310
+bon je déconne ya les niveaux avec
+
+126
+00:05:12,510 --> 00:05:15,540
+bosses les niveaux style date forme et
+
+127
+00:05:14,310 --> 00:05:17,580
+les niveaux standards beat them all qui
+
+128
+00:05:15,540 --> 00:05:19,890
+constitue le coeur du jeu d'ailleurs à
+
+129
+00:05:17,580 --> 00:05:22,500
+ce propos les level sont tous les mêmes
+
+130
+00:05:19,890 --> 00:05:24,690
+le mot ennuis ne suffirait pas à décrire
+
+131
+00:05:22,500 --> 00:05:26,280
+ce sentiment de vieillesse qui m'envahit
+
+132
+00:05:24,690 --> 00:05:27,479
+quand je joue à l'as battle plus d'une
+
+133
+00:05:26,280 --> 00:05:29,310
+heure en fait vous avez tellement
+
+134
+00:05:27,479 --> 00:05:31,740
+l'impression de faire et refaire et
+
+135
+00:05:29,310 --> 00:05:33,600
+refaire et encore refaire le même niveau
+
+136
+00:05:31,740 --> 00:05:35,370
+en boucle qu'au bout d'un moment vous
+
+137
+00:05:33,600 --> 00:05:37,470
+avez vraiment le sentiment de vivre un
+
+138
+00:05:35,370 --> 00:05:39,830
+jour sans fin mais en vrai
+
+139
+00:05:37,470 --> 00:05:39,830
+c'est vrai
+
+140
+00:05:41,720 --> 00:05:45,330
+t
+
+141
+00:05:42,210 --> 00:05:45,330
+[Musique]
+
+142
+00:05:48,590 --> 00:05:52,729
+battus
+
+143
+00:05:49,889 --> 00:05:52,729
+je suis fan
+
+144
+00:05:55,800 --> 00:05:57,450
+[Applaudissements]
+
+145
+00:05:56,920 --> 00:06:00,589
+arte
+
+146
+00:05:57,450 --> 00:06:00,589
+[Musique]
+
+147
+00:06:09,630 --> 00:06:13,250
+t
+
+148
+00:06:10,140 --> 00:06:13,250
+[Musique]
+
+149
+00:06:13,760 --> 00:06:17,780
+alors quand la nuit de ce jeu vous
+
+150
+00:06:15,830 --> 00:06:19,640
+conduira aux portes du suicide vous ne
+
+151
+00:06:17,780 --> 00:06:22,430
+direz plus je me fais chier mais vous
+
+152
+00:06:19,640 --> 00:06:24,520
+dirai je me lasse battle au pardon mais
+
+153
+00:06:22,430 --> 00:06:26,050
+je
+
+154
+00:06:24,520 --> 00:06:28,050
+[Musique]
+
+155
+00:06:26,050 --> 00:06:28,050
+à
+
+156
+00:06:28,560 --> 00:06:32,319
+oudéa
+
+157
+00:06:30,729 --> 00:06:34,240
+moteur mais c'est en breton des pailles
+
+158
+00:06:32,319 --> 00:06:36,879
+il peut appeler c'est pas mal quand même
+
+159
+00:06:34,240 --> 00:06:37,659
+temps alors surtout penser à éliminer
+
+160
+00:06:36,879 --> 00:06:38,860
+tous les ennemis n'est qu'ils
+
+161
+00:06:37,659 --> 00:06:40,210
+apparaissent parce que si vous avancez
+
+162
+00:06:38,860 --> 00:06:42,520
+un peu trop vite ils vont prendre en
+
+163
+00:06:40,210 --> 00:06:44,169
+sandwich et le problème c'est que dès
+
+164
+00:06:42,520 --> 00:06:45,699
+que ce con de quais de toucher in the
+
+165
+00:06:44,169 --> 00:06:48,809
+block hercules élèves pour attendre que
+
+166
+00:06:45,699 --> 00:06:48,809
+ça s'arrête pour modé des coûts
+
+167
+00:06:49,700 --> 00:06:53,690
+[Musique]
+
+168
+00:06:53,800 --> 00:06:56,710
+quelques fois on tombe sur des niveaux
+
+169
+00:06:55,120 --> 00:06:58,569
+bourrés de pièges ou le doit monter et
+
+170
+00:06:56,710 --> 00:06:59,919
+descendre les étages en évitant toutes
+
+171
+00:06:58,569 --> 00:07:01,180
+sortes de projectiles qui vous foncent
+
+172
+00:06:59,919 --> 00:07:03,009
+dessus sans qu'il n'y ait personne à
+
+173
+00:07:01,180 --> 00:07:04,449
+l'autre bout on a des flèches des âges
+
+174
+00:07:03,009 --> 00:07:06,729
+des rochers et on doit s'en débarrasser
+
+175
+00:07:04,449 --> 00:07:08,349
+à coups de poing on doit aussi passer
+
+176
+00:07:06,729 --> 00:07:09,969
+dans des trous pour changer d'étagé il
+
+177
+00:07:08,349 --> 00:07:11,559
+faut faire attention car il ya des trous
+
+178
+00:07:09,969 --> 00:07:13,180
+qui vous ramène en arrière et alors faut
+
+179
+00:07:11,559 --> 00:07:14,979
+tous se retaper il faut sauter
+
+180
+00:07:13,180 --> 00:07:16,990
+par-dessus mais kane un saut trop court
+
+181
+00:07:14,979 --> 00:07:18,669
+pour faire un super saut il faut d'abord
+
+182
+00:07:16,990 --> 00:07:20,169
+presser le bouton saut et ensuite la
+
+183
+00:07:18,669 --> 00:07:23,520
+direction ce qu est l inverse de tous
+
+184
+00:07:20,169 --> 00:07:25,719
+les autres jeux inventés depuis 20 ans
+
+185
+00:07:23,520 --> 00:07:27,399
+ce jeu est vraiment un des plus durs
+
+186
+00:07:25,719 --> 00:07:29,379
+auquel j'ai jamais joué je sais que je
+
+187
+00:07:27,399 --> 00:07:32,259
+dis ça à chaque fois mais il a croyez
+
+188
+00:07:29,379 --> 00:07:34,330
+moi c'est vraiment vraiment dur on a une
+
+189
+00:07:32,259 --> 00:07:36,039
+seule barre de vie pour tous le jeu il
+
+190
+00:07:34,330 --> 00:07:37,240
+ya zéro continue on récupère de
+
+191
+00:07:36,039 --> 00:07:39,459
+l'énergie de manière totalement
+
+192
+00:07:37,240 --> 00:07:41,620
+aléatoire et on passe du sol là qu'un
+
+193
+00:07:39,459 --> 00:07:43,479
+puits de poules asthmatiques à des boss
+
+194
+00:07:41,620 --> 00:07:45,099
+qui sont quasiment imbattable il faut
+
+195
+00:07:43,479 --> 00:07:47,020
+connaître le jeu par coeur pour avancer
+
+196
+00:07:45,099 --> 00:07:48,279
+sans perdre de temps car on ne sait pas
+
+197
+00:07:47,020 --> 00:07:48,699
+à l'avancé ce qui nous attend dans un
+
+198
+00:07:48,279 --> 00:07:50,229
+niveau
+
+199
+00:07:48,699 --> 00:07:51,939
+ça ne sert à rien d'emprunter le chemin
+
+200
+00:07:50,229 --> 00:07:53,409
+le plus court car si vous n'avez pas
+
+201
+00:07:51,939 --> 00:07:55,979
+parler un personnage clé vous ne pourrez
+
+202
+00:07:53,409 --> 00:07:55,979
+pas aller plus loin
+
+203
+00:07:58,250 --> 00:08:02,550
+l'animation est dans ce jeu ce qu'il ya
+
+204
+00:08:00,659 --> 00:08:04,139
+de pire à la même époque
+
+205
+00:08:02,550 --> 00:08:06,090
+sortez des jeux de bien meilleure
+
+206
+00:08:04,139 --> 00:08:07,110
+qualité au niveau de l'animation ici on
+
+207
+00:08:06,090 --> 00:08:08,689
+a l'impression que les personnages ont
+
+208
+00:08:07,110 --> 00:08:10,740
+animé sur deux trams
+
+209
+00:08:08,689 --> 00:08:13,770
+regardez on dirait qu'il a un balai dans
+
+210
+00:08:10,740 --> 00:08:16,280
+le fion c'est pas ken le survivant assez
+
+211
+00:08:13,770 --> 00:08:16,280
+lord of the dance
+
+212
+00:08:27,800 --> 00:08:32,269
+pour pousser la tortue encore plus loin
+
+213
+00:08:30,139 --> 00:08:34,339
+il était possible de franchir certaines
+
+214
+00:08:32,269 --> 00:08:36,050
+zones sans avoir terminé certain niveau
+
+215
+00:08:34,339 --> 00:08:37,909
+c'est qu'il faut alors faire demi-tour
+
+216
+00:08:36,050 --> 00:08:39,830
+et repasser sur des niveaux qu'on a déjà
+
+217
+00:08:37,909 --> 00:08:41,120
+traversé quand même si un certain
+
+218
+00:08:39,830 --> 00:08:42,950
+sauvignon d'actifs pour refaire
+
+219
+00:08:41,120 --> 00:08:44,269
+intégralement votre barre d'énergie elle
+
+220
+00:08:42,950 --> 00:08:46,149
+est toujours aussi vides c'est qu'au
+
+221
+00:08:44,269 --> 00:08:48,589
+nord ils sont tous revenus
+
+222
+00:08:46,149 --> 00:08:50,300
+il faut recommencer depuis le début un
+
+223
+00:08:48,589 --> 00:08:52,190
+nombre incalculable de fois et
+
+224
+00:08:50,300 --> 00:08:54,050
+sérieusement ce game over bleu va vous
+
+225
+00:08:52,190 --> 00:08:57,130
+hanter toute votre vie en vous l'aurez
+
+226
+00:08:54,050 --> 00:09:05,110
+vu encore et encore et encore
+
+227
+00:08:57,130 --> 00:09:05,110
+[Musique]
+
+228
+00:09:05,910 --> 00:09:21,260
+ça y est c'est enfin le dernier boss
+
+229
+00:09:09,360 --> 00:09:26,030
+[Musique]
+
+230
+00:09:21,260 --> 00:09:38,059
+crever comme ils veulent
+
+231
+00:09:26,030 --> 00:09:38,059
+[Musique]
+
+232
+00:09:42,760 --> 00:09:49,919
+couteau de cuisine ou de salle à manger
+
+233
+00:09:46,780 --> 00:09:49,919
+[Musique]
+
+234
+00:09:52,950 --> 00:09:56,389
+[Musique]
+

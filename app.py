@@ -13,6 +13,8 @@ query = st.text_input(
     key="yt_query",
 )
 
+channel = st.text_input("Channel filter", placeholder="some channel")
+
 # Search trigger button
 search_button = st.button("Search & Load Video", type="primary")
 
@@ -22,11 +24,13 @@ st.markdown("---")
 # Container for results
 results_container = st.container()
 
-if search_button:
+if search_button and channel and search_button:
     with st.spinner("Searching YouTube ..."):
         res = (
             subprocess.run(
-                ["bash", "quick_search.sh", query], capture_output=True, text=True
+                ["bash", "quick_search.sh", query, channel],
+                capture_output=True,
+                text=True,
             )
             .stdout.strip()
             .split("&t=")

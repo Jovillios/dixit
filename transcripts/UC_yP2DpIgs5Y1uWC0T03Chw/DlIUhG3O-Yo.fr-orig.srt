@@ -1,0 +1,2828 @@
+1
+00:00:00,280 --> 00:00:03,639
+salut à tous cette vidéo est sponsorisée
+
+2
+00:00:01,800 --> 00:00:05,359
+par mobile Legend Adventure mobile
+
+3
+00:00:03,639 --> 00:00:06,799
+Legend Adventure c'est un idle RPG
+
+4
+00:00:05,359 --> 00:00:08,000
+apprécié au 27 millions de
+
+5
+00:00:06,799 --> 00:00:09,160
+téléchargements collectter des
+
+6
+00:00:08,000 --> 00:00:10,759
+ressources et devenez plus fort
+
+7
+00:00:09,160 --> 00:00:12,559
+simplement en dormant les ressources
+
+8
+00:00:10,759 --> 00:00:14,879
+s'accumulent automatiquement 24 heur sur
+
+9
+00:00:12,559 --> 00:00:16,000
+24 et 7 jours sur 7 les héros se battent
+
+10
+00:00:14,879 --> 00:00:17,400
+seul pendant que vous faites autre
+
+11
+00:00:16,000 --> 00:00:20,640
+chosees waouh mais ça veut dire que je
+
+12
+00:00:17,400 --> 00:00:20,640
+peux faire plein d'autres choses en même
+
+13
+00:00:24,760 --> 00:00:29,519
+temps mais vous pouvez jouer aussi ah ok
+
+14
+00:00:27,960 --> 00:00:31,039
+on va faire ça alors mobile Legend
+
+15
+00:00:29,519 --> 00:00:32,480
+adventure le jeu idéal pour occuper
+
+16
+00:00:31,039 --> 00:00:33,840
+votre temps libre et jouer 5 ou 10
+
+17
+00:00:32,480 --> 00:00:36,120
+minutes quand vous avez une pause avec
+
+18
+00:00:33,840 --> 00:00:39,680
+son scénario captivant et ses 85 héros
+
+19
+00:00:36,120 --> 00:00:42,039
+uniques 85 mais ça fait au moins des
+
+20
+00:00:39,680 --> 00:00:43,520
+centaines pardon faites preuve de
+
+21
+00:00:42,039 --> 00:00:44,760
+stratégie pour composer votre équipe et
+
+22
+00:00:43,520 --> 00:00:47,199
+profitez du spectacle avec des
+
+23
+00:00:44,760 --> 00:00:49,000
+personnages de haute qualité waouh j'ai
+
+24
+00:00:47,199 --> 00:00:52,320
+gâteau
+
+25
+00:00:49,000 --> 00:00:53,600
+caca c'est un vrai personnage dès
+
+26
+00:00:52,320 --> 00:00:54,920
+maintenant et jusqu'au 6 janvier
+
+27
+00:00:53,600 --> 00:00:56,760
+participer à l'événement de Noël et
+
+28
+00:00:54,920 --> 00:00:58,559
+recevez des récompenses uniques faites
+
+29
+00:00:56,760 --> 00:01:00,800
+des vœux et attendez les cadeaux du Père
+
+30
+00:00:58,559 --> 00:01:03,120
+Noël et par Père Noël je veux évidemment
+
+31
+00:01:00,800 --> 00:01:05,040
+dire Jean-François du service marketing
+
+32
+00:01:03,120 --> 00:01:06,799
+bonjour connectez-vous tous les jours
+
+33
+00:01:05,040 --> 00:01:08,880
+pour recevoir 70 parchemin d'in
+
+34
+00:01:06,799 --> 00:01:11,119
+voocation gratuit et collecter des skins
+
+35
+00:01:08,880 --> 00:01:12,640
+de Noël à durée limitée jeux gratuit
+
+36
+00:01:11,119 --> 00:01:13,759
+disponible sur Android et iOS
+
+37
+00:01:12,640 --> 00:01:15,080
+téléchargez-le avec le lien en
+
+38
+00:01:13,759 --> 00:01:16,439
+description utilisez le code à l'écran
+
+39
+00:01:15,080 --> 00:01:19,920
+pour obtenir 1000 diamants et 20
+
+40
+00:01:16,439 --> 00:01:19,920
+parchemin de voocation
+
+41
+00:01:24,840 --> 00:01:40,159
+[Musique]
+
+42
+00:01:35,520 --> 00:01:40,159
+1 2 3 4
+
+43
+00:01:41,520 --> 00:01:55,600
+[Musique]
+
+44
+00:01:51,240 --> 00:01:55,600
+[Applaudissements]
+
+45
+00:01:59,030 --> 00:02:09,060
+[Musique]
+
+46
+00:02:11,840 --> 00:02:17,360
+il était une fois l'histoire de deux
+
+47
+00:02:14,640 --> 00:02:20,599
+gentils hommes le premier s'appelait
+
+48
+00:02:17,360 --> 00:02:22,760
+John carmac un programmeur de génie ses
+
+49
+00:02:20,599 --> 00:02:25,080
+talents de codage impressionnit la
+
+50
+00:02:22,760 --> 00:02:27,360
+galerie j'ai programmé commander Kin sur
+
+51
+00:02:25,080 --> 00:02:28,959
+MS2 qu' mon patron ne regardait pas si
+
+52
+00:02:27,360 --> 00:02:31,080
+les jeux sont fluides sur PC c'est
+
+53
+00:02:28,959 --> 00:02:33,319
+vraiment grâce à moi
+
+54
+00:02:31,080 --> 00:02:36,040
+efftivement n'avait pas son cerveau
+
+55
+00:02:33,319 --> 00:02:37,360
+aiguisé aujourd'hui encore nos jeux
+
+56
+00:02:36,040 --> 00:02:41,440
+serai
+
+57
+00:02:37,360 --> 00:02:43,640
+éclatés le éta John Romo son truc à lui
+
+58
+00:02:41,440 --> 00:02:47,000
+cétait de faire des niveau
+
+59
+00:02:43,640 --> 00:02:50,800
+les Rost avec je vais gagner des
+
+60
+00:02:47,000 --> 00:02:52,800
+milliards em il fond une nouvelle
+
+61
+00:02:50,800 --> 00:02:57,720
+société et dans le je
+
+62
+00:02:52,800 --> 00:02:57,720
+vidéo tout WOL
+
+63
+00:02:58,670 --> 00:03:02,480
+[Musique]
+
+64
+00:03:00,080 --> 00:03:05,480
+c'est vraiment un livre pour enfants ça
+
+65
+00:03:02,480 --> 00:03:08,319
+Roméo et karmac rien n'arrêtait leur
+
+66
+00:03:05,480 --> 00:03:11,680
+ascension et très rapidement ils se
+
+67
+00:03:08,319 --> 00:03:13,519
+noyaient dans leur propre pognon mais si
+
+68
+00:03:11,680 --> 00:03:17,840
+les deux hommes étaient déjà rentrés
+
+69
+00:03:13,519 --> 00:03:22,879
+dans les anals KAC serait la fourmie et
+
+70
+00:03:17,840 --> 00:03:25,599
+Roméo l'amigale la cale ta gueule l'
+
+71
+00:03:22,879 --> 00:03:28,879
+était concentré sérieux on ne plaisante
+
+72
+00:03:25,599 --> 00:03:31,400
+pas quand l'autre aimait parler fr les
+
+73
+00:03:28,879 --> 00:03:33,400
+lumières des camé pendant le
+
+74
+00:03:31,400 --> 00:03:36,720
+développement de Quake les problèmes
+
+75
+00:03:33,400 --> 00:03:38,840
+commençèent Romero était frustré énervé
+
+76
+00:03:36,720 --> 00:03:40,400
+et ses collègues l'engueulaire tu te
+
+77
+00:03:38,840 --> 00:03:41,959
+déconcentres tes équipes tournent en
+
+78
+00:03:40,400 --> 00:03:44,080
+rond fini le de jeu au lieu de
+
+79
+00:03:41,959 --> 00:03:46,040
+faire le con mais j'en ai marre moi je
+
+80
+00:03:44,080 --> 00:03:48,840
+veux m'amuser sortir le jeu vite c'est
+
+81
+00:03:46,040 --> 00:03:52,159
+tout ce à quoi vous pensez Roméo en tant
+
+82
+00:03:48,840 --> 00:03:55,439
+que créatif vous laisse lâcher renouvelz
+
+83
+00:03:52,159 --> 00:03:57,799
+le genre créer la nouveauté mais carac
+
+84
+00:03:55,439 --> 00:04:00,000
+lui ne l'entendait pas ainsi et de plein
+
+85
+00:03:57,799 --> 00:04:02,319
+d'idées cool
+
+86
+00:04:00,000 --> 00:04:05,120
+raccourci les deux hommes avaient du jeu
+
+87
+00:04:02,319 --> 00:04:07,319
+vidéo une vision bien différente et les
+
+88
+00:04:05,120 --> 00:04:09,640
+altercations devenaient de plus en plus
+
+89
+00:04:07,319 --> 00:04:11,079
+fréquentes le premier pensait que la
+
+90
+00:04:09,640 --> 00:04:12,720
+technique était la seule chose qui
+
+91
+00:04:11,079 --> 00:04:14,000
+comptait tout le monde s'en fout de
+
+92
+00:04:12,720 --> 00:04:16,720
+l'histoire ce qui compte c'est de
+
+93
+00:04:14,000 --> 00:04:19,639
+s'amuser le second ne voyait pas les
+
+94
+00:04:16,720 --> 00:04:21,440
+choses comme ainsi et sans hésiter il
+
+95
+00:04:19,639 --> 00:04:23,479
+répondit sans idées neuvees moi
+
+96
+00:04:21,440 --> 00:04:26,560
+j'abandonne nos jeux n'intéresseront
+
+97
+00:04:23,479 --> 00:04:30,840
+personne alors ce qui devait arriver
+
+98
+00:04:26,560 --> 00:04:32,600
+arriva et Romero sa propre société fonda
+
+99
+00:04:30,840 --> 00:04:36,800
+en grande pompe le premier jeu il
+
+100
+00:04:32,600 --> 00:04:41,120
+annonça et celui-ci s'appellera da
+
+101
+00:04:36,800 --> 00:04:44,000
+katana en japonais ça veut dire gros CP
+
+102
+00:04:41,120 --> 00:04:45,840
+da katana c'est un jeu de légende parmi
+
+103
+00:04:44,000 --> 00:04:47,960
+les jeux pourris c'est un peu comme Duke
+
+104
+00:04:45,840 --> 00:04:49,840
+Nukem Forever mais sans les nichons et
+
+105
+00:04:47,960 --> 00:04:51,720
+comme pour nuk Nukem il est important de
+
+106
+00:04:49,840 --> 00:04:53,360
+comprendre comment ce jeu est apparu
+
+107
+00:04:51,720 --> 00:04:54,400
+quand Romero quitte sa société il décide
+
+108
+00:04:53,360 --> 00:04:56,240
+de faire l'inverse de tout ce que
+
+109
+00:04:54,400 --> 00:04:57,919
+faisait h software il développe dans des
+
+110
+00:04:56,240 --> 00:04:59,720
+petits studios boum il investit dans des
+
+111
+00:04:57,919 --> 00:05:01,479
+bureaux énormes il bossait sur un seul
+
+112
+00:04:59,720 --> 00:05:03,240
+jeu à la fois boou il décide de bosser
+
+113
+00:05:01,479 --> 00:05:04,919
+sur trois jeux en parallèle ils ont fait
+
+114
+00:05:03,240 --> 00:05:06,280
+des jeux à succès Booum il fait une
+
+115
+00:05:04,919 --> 00:05:07,360
+grosse merde ah non pardon j'ai les
+
+116
+00:05:06,280 --> 00:05:09,360
+apppp à la fin de l'histoire revenons en
+
+117
+00:05:07,360 --> 00:05:10,800
+arrière Romero investit le tiers de sa
+
+118
+00:05:09,360 --> 00:05:12,360
+fortune personnelle il va démarcher des
+
+119
+00:05:10,800 --> 00:05:13,520
+éditeurs comme idos qui investissent
+
+120
+00:05:12,360 --> 00:05:15,720
+également une partie de la montagne de
+
+121
+00:05:13,520 --> 00:05:17,440
+pogon générée par Tomb Raider h jeux
+
+122
+00:05:15,720 --> 00:05:19,919
+sont préachetés et sa compagnie
+
+123
+00:05:17,440 --> 00:05:22,479
+s'appellera ion
+
+124
+00:05:19,919 --> 00:05:23,759
+stor le jeu s'ouvre par une cinématique
+
+125
+00:05:22,479 --> 00:05:25,360
+qui dure tellement longtemps que j'ai eu
+
+126
+00:05:23,759 --> 00:05:26,919
+la sensation de voyager dans le temps
+
+127
+00:05:25,360 --> 00:05:28,280
+heureusement que cette version PC est
+
+128
+00:05:26,919 --> 00:05:31,639
+redoublée contrairement à la version
+
+129
+00:05:28,280 --> 00:05:31,639
+Nintendo 64 qui est
+
+130
+00:05:33,479 --> 00:05:38,080
+ah sort éfique en plus de ramer assez
+
+131
+00:05:36,360 --> 00:05:39,960
+pour participer aux épreuves d'aviron
+
+132
+00:05:38,080 --> 00:05:42,639
+l'histoire donc se passe dans un Japon
+
+133
+00:05:39,960 --> 00:05:44,240
+futuriste on y incarne ho Miyamoto
+
+134
+00:05:42,639 --> 00:05:46,160
+évidemment en référence à Shigeru
+
+135
+00:05:44,240 --> 00:05:48,520
+Miyamoto le mec qui a créé l'excellent
+
+136
+00:05:46,160 --> 00:05:50,400
+Wii Music qui est un épéiste modeste qui
+
+137
+00:05:48,520 --> 00:05:54,400
+s'entraîne dans son dojo camp par une
+
+138
+00:05:50,400 --> 00:05:56,000
+belle nuit d'été ben je vais en Bretagne
+
+139
+00:05:54,400 --> 00:05:57,560
+un vieillard arrive et nous raconte
+
+140
+00:05:56,000 --> 00:05:59,960
+l'histoire de ses ancêtres la famille
+
+141
+00:05:57,560 --> 00:06:01,400
+ebiara je vous promets que vous ne
+
+142
+00:05:59,960 --> 00:06:03,520
+regretterez pas le temps que vous
+
+143
+00:06:01,400 --> 00:06:05,520
+m'aurez
+
+144
+00:06:03,520 --> 00:06:07,039
+accordé ça c'est ce que toute personne
+
+145
+00:06:05,520 --> 00:06:09,400
+normale aurait fait mais là on est dans
+
+146
+00:06:07,039 --> 00:06:11,520
+un jeu vidéo loin dans le passé il y a
+
+147
+00:06:09,400 --> 00:06:13,759
+des millénaires les familles ebiara et
+
+148
+00:06:11,520 --> 00:06:15,720
+Mishima étent opposé dans la lutte pour
+
+149
+00:06:13,759 --> 00:06:18,919
+le pouvoir au Japon jusqu'au moment o
+
+150
+00:06:15,720 --> 00:06:21,400
+Usagi miamoto ancêtre d'IRO forgea
+
+151
+00:06:18,919 --> 00:06:24,599
+l'arme suprême la
+
+152
+00:06:21,400 --> 00:06:27,120
+grosp qui permit à la famille ebiara de
+
+153
+00:06:24,599 --> 00:06:28,759
+vaincre la famille Mishima grâce à ses
+
+154
+00:06:27,120 --> 00:06:30,880
+pouvoirs mystiques qui permettent à son
+
+155
+00:06:28,759 --> 00:06:33,400
+propriétaire de voyager dans l'espace et
+
+156
+00:06:30,880 --> 00:06:34,479
+le temps des katanas des samourails du
+
+157
+00:06:33,400 --> 00:06:36,360
+futur qui voyagent dans le temps
+
+158
+00:06:34,479 --> 00:06:40,160
+attendez je note quelque chose dans
+
+159
+00:06:36,360 --> 00:06:42,759
+cette lettre je la cè et on se retrouve
+
+160
+00:06:40,160 --> 00:06:44,759
+à la fin de la vidéo les Mishima furent
+
+161
+00:06:42,759 --> 00:06:46,759
+donc vaincus par les ebiara mettant un
+
+162
+00:06:44,759 --> 00:06:48,800
+terme à la guerre des siècles plus tard
+
+163
+00:06:46,759 --> 00:06:51,000
+un descendant de ebiara se mit en tête
+
+164
+00:06:48,800 --> 00:06:52,639
+de retrouver le Daikatana qui avait
+
+165
+00:06:51,000 --> 00:06:54,319
+disparu depuis la grande bataille
+
+166
+00:06:52,639 --> 00:06:56,120
+j'espère que vous suivez jeté dans les
+
+167
+00:06:54,319 --> 00:06:58,520
+entrailles du mon Fuji par votre ancêtre
+
+168
+00:06:56,120 --> 00:07:00,560
+car trop puissant et trop dangereux et
+
+169
+00:06:58,520 --> 00:07:03,560
+biara retrouve donc la trace de l'épée
+
+170
+00:07:00,560 --> 00:07:03,560
+mais Pelot
+
+171
+00:07:04,319 --> 00:07:09,479
+twist excellente blague son assistant se
+
+172
+00:07:07,120 --> 00:07:11,800
+révèle être en fait Kage Mishima
+
+173
+00:07:09,479 --> 00:07:14,319
+descendant de la famille Mishima et la
+
+174
+00:07:11,800 --> 00:07:16,039
+précédé il dérobe le Daikatana et
+
+175
+00:07:14,319 --> 00:07:17,720
+emploie ses pouvoirs magique pour
+
+176
+00:07:16,039 --> 00:07:20,080
+voyager dans le temps et changer le
+
+177
+00:07:17,720 --> 00:07:20,080
+cours de
+
+178
+00:07:20,960 --> 00:07:24,479
+l'histoire mon Dieu ils ont changé le
+
+179
+00:07:22,840 --> 00:07:26,160
+cours du temps tout le monde porte des
+
+180
+00:07:24,479 --> 00:07:27,440
+masques de dinosaures le vieil homme
+
+181
+00:07:26,160 --> 00:07:30,039
+nous demande donc de retrouver le
+
+182
+00:07:27,440 --> 00:07:32,280
+Daikatana détenu par Mishima ainsi que
+
+183
+00:07:30,039 --> 00:07:34,680
+sa propre fille mikiko disparu pour
+
+184
+00:07:32,280 --> 00:07:36,599
+avoir tenté de s'emparer de l'épéerouver
+
+185
+00:07:34,680 --> 00:07:39,599
+ma fille
+
+186
+00:07:36,599 --> 00:07:42,759
+etatana et j'aime beaucoup comment notre
+
+187
+00:07:39,599 --> 00:07:45,960
+héros gob instantanément tout ce qui est
+
+188
+00:07:42,759 --> 00:07:48,120
+dit je suis un prince nigérien venu du
+
+189
+00:07:45,960 --> 00:07:51,680
+futur je suis venu ton aide pour
+
+190
+00:07:48,120 --> 00:07:54,800
+pouironstituer la corn magiquein d'Align
+
+191
+00:07:51,680 --> 00:07:56,960
+pas plus j'attrape mon manteau attendez
+
+192
+00:07:54,800 --> 00:08:00,400
+une minute qu'est-ce qu' me dit que vous
+
+193
+00:07:56,960 --> 00:08:00,400
+êtes vraiment nigérien
+
+194
+00:08:03,520 --> 00:08:08,879
+et ainsi commença la création du jeu et
+
+195
+00:08:07,759 --> 00:08:13,599
+le moins qu'on puisse dire c'est que
+
+196
+00:08:08,879 --> 00:08:15,879
+c'était ambitieux 15 niveaux 25 armes 64
+
+197
+00:08:13,599 --> 00:08:18,599
+monstres 4 périodes temporelles et en
+
+198
+00:08:15,879 --> 00:08:21,039
+plus le jeu doit être une révolution
+
+199
+00:08:18,599 --> 00:08:23,159
+visuelle mois pour tout finir sachant
+
+200
+00:08:21,039 --> 00:08:25,960
+que l'équipe part de zé qu'il faut
+
+201
+00:08:23,159 --> 00:08:28,400
+recruter tout le
+
+202
+00:08:25,960 --> 00:08:31,319
+personnelz évidemment grâce au fr fil
+
+203
+00:08:28,400 --> 00:08:32,839
+Paros at un peu n'importe qui oua j'ai
+
+204
+00:08:31,319 --> 00:08:34,330
+très hâte de rencontrer notre nouvelle
+
+205
+00:08:32,839 --> 00:08:39,519
+équipe de
+
+206
+00:08:34,330 --> 00:08:41,440
+[Musique]
+
+207
+00:08:39,519 --> 00:08:44,880
+développement pour ma part j'ai mon
+
+208
+00:08:41,440 --> 00:08:47,399
+petit succès avec desam Surb rider avec
+
+209
+00:08:44,880 --> 00:08:51,170
+la r
+
+210
+00:08:47,399 --> 00:08:54,200
+poil encore la
+
+211
+00:08:51,170 --> 00:08:55,400
+[Musique]
+
+212
+00:08:54,200 --> 00:08:56,760
+poil
+
+213
+00:08:55,400 --> 00:09:00,519
+[Musique]
+
+214
+00:08:56,760 --> 00:09:02,800
+moi votre fille la photo
+
+215
+00:09:00,519 --> 00:09:06,760
+je peux la prendre la
+
+216
+00:09:02,800 --> 00:09:08,800
+photoah il a qui ce chien c'est c'est le
+
+217
+00:09:06,760 --> 00:09:10,279
+mien en fait je me suis dit peut-être
+
+218
+00:09:08,800 --> 00:09:13,000
+c'était possible
+
+219
+00:09:10,279 --> 00:09:14,320
+de en gros Romero commence à recruter
+
+220
+00:09:13,000 --> 00:09:16,120
+des gens qui ont construit des maps sur
+
+221
+00:09:14,320 --> 00:09:17,600
+le moteur de Quake avec comme seul
+
+222
+00:09:16,120 --> 00:09:19,560
+critère de recrutement leur nombre de
+
+223
+00:09:17,600 --> 00:09:21,399
+téléchargement sur internet donc ben
+
+224
+00:09:19,560 --> 00:09:22,800
+forcément ça donne un peu n'importe quoi
+
+225
+00:09:21,399 --> 00:09:24,519
+le jeu commence donc son développement
+
+226
+00:09:22,800 --> 00:09:27,200
+sur le moteur de Quake 1 est censé
+
+227
+00:09:24,519 --> 00:09:29,800
+sortir fin 97 mais à le 3 de cette même
+
+228
+00:09:27,200 --> 00:09:32,040
+année h software présente la démo de 2
+
+229
+00:09:29,800 --> 00:09:34,399
+littéralement sur le stand d'à côté qui
+
+230
+00:09:32,040 --> 00:09:35,800
+évidemment ridiculise Daikatana Romero
+
+231
+00:09:34,399 --> 00:09:37,120
+décide donc de repousser la sortie du
+
+232
+00:09:35,800 --> 00:09:39,000
+jeu pour le remettre à la pointe de la
+
+233
+00:09:37,120 --> 00:09:40,720
+technologie il se dit bêtement
+
+234
+00:09:39,000 --> 00:09:42,800
+tranquille nos programmeurs connaissent
+
+235
+00:09:40,720 --> 00:09:46,079
+déjà le moteur de quun ça leur prendra
+
+236
+00:09:42,800 --> 00:09:46,079
+quoi de TR mois pour faire le
+
+237
+00:09:47,320 --> 00:09:54,040
+portage merde le jeu sort donc sur PC
+
+238
+00:09:50,839 --> 00:09:57,320
+avec un portage sur Nintendo 64 et sur
+
+239
+00:09:54,040 --> 00:10:00,480
+Game Boy Color vraiment ah
+
+240
+00:09:57,320 --> 00:10:02,279
+oui ok après très longue cinématique le
+
+241
+00:10:00,480 --> 00:10:04,120
+vieux meurt assassiné en nous disant de
+
+242
+00:10:02,279 --> 00:10:05,440
+se planquer dans son cercueil quand ils
+
+243
+00:10:04,120 --> 00:10:07,640
+viendront chercher son corps
+
+244
+00:10:05,440 --> 00:10:09,040
+débouyz-vous pour vous faire enfermer
+
+245
+00:10:07,640 --> 00:10:11,000
+dans le cercueil alors si j'étais
+
+246
+00:10:09,040 --> 00:10:12,480
+mesquin je dirais ok mais la personne
+
+247
+00:10:11,000 --> 00:10:13,680
+qui emmène le cercueil avant de le
+
+248
+00:10:12,480 --> 00:10:15,640
+refermer elle va peut-être bien voir
+
+249
+00:10:13,680 --> 00:10:20,160
+qu'il y a deux corps dedans non oups
+
+250
+00:10:15,640 --> 00:10:20,160
+mais passons commençons le jeu
+
+251
+00:10:31,519 --> 00:10:35,040
+ok ok ok je je je sais même pas pas
+
+252
+00:10:33,360 --> 00:10:36,519
+recommencer ne t'inquiète pas vas-y
+
+253
+00:10:35,040 --> 00:10:38,800
+doucement et dis-moi où c'est que le jeu
+
+254
+00:10:36,519 --> 00:10:40,560
+t'a touché bon alors déjà le jeu ser en
+
+255
+00:10:38,800 --> 00:10:43,639
+mai 2000 sur le moteur de Quake 2 et
+
+256
+00:10:40,560 --> 00:10:46,800
+soyons clair ça en
+
+257
+00:10:43,639 --> 00:10:48,680
+2000 en 2000 déjà il y a K 3 qui sort
+
+258
+00:10:46,800 --> 00:10:51,800
+mais ça fait surtout 3 ans que Golden
+
+259
+00:10:48,680 --> 00:10:54,000
+Eye est sorti 2 ans que Half Life est
+
+260
+00:10:51,800 --> 00:10:55,399
+sorti c'est comme ce pointter en 3è
+
+261
+00:10:54,000 --> 00:10:56,920
+année de fac d'art appliqué et de
+
+262
+00:10:55,399 --> 00:10:58,440
+ramener le dessin de ta petite sœur mais
+
+263
+00:10:56,920 --> 00:11:00,560
+je sais pas j'ai du mal à dire ce qui
+
+264
+00:10:58,440 --> 00:11:03,000
+m'agresse le plus en ce début de partie
+
+265
+00:11:00,560 --> 00:11:04,600
+est-ce que c'est l'image verpice le fait
+
+266
+00:11:03,000 --> 00:11:06,000
+que le jeu te fasse commencer sans
+
+267
+00:11:04,600 --> 00:11:07,600
+préliminaire par un niveau dans les
+
+268
+00:11:06,000 --> 00:11:09,120
+égouts un peu comme si tu allais dans un
+
+269
+00:11:07,600 --> 00:11:10,800
+bar et que tu commençais à vomir avant
+
+270
+00:11:09,120 --> 00:11:12,279
+même de boire ton premier verre ou
+
+271
+00:11:10,800 --> 00:11:15,000
+est-ce que c'est le sound design
+
+272
+00:11:12,279 --> 00:11:15,000
+instantanément
+
+273
+00:11:17,540 --> 00:11:20,610
+[Musique]
+
+274
+00:11:22,320 --> 00:11:26,720
+insupportable c'est le sonide le pire
+
+275
+00:11:24,959 --> 00:11:28,519
+c'est que il y a une musique dans le jeu
+
+276
+00:11:26,720 --> 00:11:30,040
+qui est pas immonde quand on l'écoute
+
+277
+00:11:28,519 --> 00:11:32,079
+mais pour une raison inexplicable ils
+
+278
+00:11:30,040 --> 00:11:33,680
+l'ont baissé au minimum du coup les ves
+
+279
+00:11:32,079 --> 00:11:37,920
+moments où tu l'entends on dirait juste
+
+280
+00:11:33,680 --> 00:11:40,079
+qu'il y a une fête à côté ah mais c'est
+
+281
+00:11:37,920 --> 00:11:42,279
+vos gueules je je m'entends plus
+
+282
+00:11:40,079 --> 00:11:43,519
+m'emmerder là par contre on a mis les
+
+283
+00:11:42,279 --> 00:11:46,519
+brutages à fond c'est important pour
+
+284
+00:11:43,519 --> 00:11:46,519
+l'ambiance
+
+285
+00:12:07,200 --> 00:12:11,880
+mais venons-en à un des principaux
+
+286
+00:12:09,000 --> 00:12:11,880
+problèmes de ce DA
+
+287
+00:12:16,440 --> 00:12:21,360
+katana les armes j'ai commencé à
+
+288
+00:12:19,639 --> 00:12:23,199
+soupçonner que quelque chose allait mal
+
+289
+00:12:21,360 --> 00:12:24,560
+se passer quand après moins de 30
+
+290
+00:12:23,199 --> 00:12:26,519
+secondes j'ai voulu tirer avec la
+
+291
+00:12:24,560 --> 00:12:28,959
+première arme du jeu sous l'eau et que
+
+292
+00:12:26,519 --> 00:12:30,399
+ça m'a pété à la gueule sans raison et
+
+293
+00:12:28,959 --> 00:12:32,160
+là je me suis dit mais mais non c'est
+
+294
+00:12:30,399 --> 00:12:33,480
+pas possible c'est moi qui fait quelque
+
+295
+00:12:32,160 --> 00:12:35,199
+chose de mal je veux dire la première
+
+296
+00:12:33,480 --> 00:12:37,160
+arme du jeu ne peut pas être autant à
+
+297
+00:12:35,199 --> 00:12:38,839
+chier c'est comme si ton date se mettait
+
+298
+00:12:37,160 --> 00:12:40,000
+à lâcher des énormes caisses au bout de
+
+299
+00:12:38,839 --> 00:12:42,160
+quelques minutes lors de votre premier
+
+300
+00:12:40,000 --> 00:12:43,600
+rendez-vous au restaurant mais si le
+
+301
+00:12:42,160 --> 00:12:44,800
+problème c'est que toutes les armes
+
+302
+00:12:43,600 --> 00:12:46,440
+d'une manière ou d'une autre te
+
+303
+00:12:44,800 --> 00:12:47,800
+reviennne à la gueule hein l'arme de
+
+304
+00:12:46,440 --> 00:12:49,600
+base lance des projectiles qui
+
+305
+00:12:47,800 --> 00:12:51,399
+rebondissent sur les murs et notamment
+
+306
+00:12:49,600 --> 00:12:52,680
+dans ta gueule ce qui n'est pas très
+
+307
+00:12:51,399 --> 00:12:54,120
+pratique quand tous les ennemis pendant
+
+308
+00:12:52,680 --> 00:12:55,760
+les deux premières heures de jeu font 10
+
+309
+00:12:54,120 --> 00:12:57,360
+cm de haut et que donc tu dois viser tes
+
+310
+00:12:55,760 --> 00:12:59,320
+pieds mais ne vous inquiétez pas une
+
+311
+00:12:57,360 --> 00:13:01,680
+autre arme arrive peu de temps après je
+
+312
+00:12:59,320 --> 00:13:03,399
+vous déteste le lanceur de mines j'ai
+
+313
+00:13:01,680 --> 00:13:04,880
+jamais vu un truc qui inflige autant de
+
+314
+00:13:03,399 --> 00:13:06,320
+dégâts à soi-même à part poster son
+
+315
+00:13:04,880 --> 00:13:08,160
+opinion politique sur Twitter he cette
+
+316
+00:13:06,320 --> 00:13:11,480
+arme lance des mines 2 m devant toi qui
+
+317
+00:13:08,160 --> 00:13:13,959
+ont un rayon d'explosion de 4 m à quoi
+
+318
+00:13:11,480 --> 00:13:15,839
+sert cette merde même si tu veux jouer
+
+319
+00:13:13,959 --> 00:13:18,040
+un temps soit peu intelligent en te
+
+320
+00:13:15,839 --> 00:13:19,680
+décalant dans un coin de mur pour tirer
+
+321
+00:13:18,040 --> 00:13:21,079
+tu passes ton temps à coller tes mines
+
+322
+00:13:19,680 --> 00:13:24,120
+sur des murs invisibles parce que les
+
+323
+00:13:21,079 --> 00:13:27,880
+hitbox de ce jeu sont tout éclatés
+
+324
+00:13:24,120 --> 00:13:30,279
+coucou merde ah mais allez mais vas-y
+
+325
+00:13:27,880 --> 00:13:35,160
+mais qu'est-ce qu'il me tue là
+
+326
+00:13:30,279 --> 00:13:39,160
+celui je vis la conte de ta race ta mère
+
+327
+00:13:35,160 --> 00:13:40,639
+ta sœur ton cul mais calme-toi j'ai pas
+
+328
+00:13:39,160 --> 00:13:42,720
+besoin de me calmer j'ai besoin que lui
+
+329
+00:13:40,639 --> 00:13:44,199
+il arrête de m'énerver parce que en gros
+
+330
+00:13:42,720 --> 00:13:45,880
+tu as le choix entre le lance mine et
+
+331
+00:13:44,199 --> 00:13:47,600
+ses murs invisiblebles le lance roquette
+
+332
+00:13:45,880 --> 00:13:49,320
+qui tire des mini bombes nucléaire le
+
+333
+00:13:47,600 --> 00:13:51,399
+lanceur de boule disco qui tue tout le
+
+334
+00:13:49,320 --> 00:13:53,079
+monde dans la pièce toi y compris les
+
+335
+00:13:51,399 --> 00:13:54,480
+armes de ce jeu sont tellement à chier
+
+336
+00:13:53,079 --> 00:13:57,519
+que le wiki a littéralement une
+
+337
+00:13:54,480 --> 00:13:59,120
+catégorie intitulée self damage vous
+
+338
+00:13:57,519 --> 00:14:02,199
+savez quoi je vais juste utiliser mes
+
+339
+00:13:59,120 --> 00:14:02,199
+point parce que là au moins je risque
+
+340
+00:14:08,920 --> 00:14:14,839
+rien et le DA katana vous me direz
+
+341
+00:14:12,600 --> 00:14:16,600
+l'arme ultime la grosse épée qu'on doit
+
+342
+00:14:14,839 --> 00:14:17,959
+retrouver le nom du jeu littéralement
+
+343
+00:14:16,600 --> 00:14:19,160
+mais la vraie question c'est plutôt
+
+344
+00:14:17,959 --> 00:14:20,920
+pourquoi est-ce que j'utiliseraai un
+
+345
+00:14:19,160 --> 00:14:23,240
+sabre dans un monde où j'ai des
+
+346
+00:14:20,920 --> 00:14:25,440
+de canon laser c'est cette scène dans
+
+347
+00:14:23,240 --> 00:14:29,680
+Indiana Jones là mais en
+
+348
+00:14:25,440 --> 00:14:31,839
+pire dès 97 la campagne de promotion du
+
+349
+00:14:29,680 --> 00:14:35,519
+jeu commence et pour ça rien de tel
+
+350
+00:14:31,839 --> 00:14:37,800
+qu'un petit peu de violence Romero va
+
+351
+00:14:35,519 --> 00:14:41,000
+faire de vous sa
+
+352
+00:14:37,800 --> 00:14:43,279
+ouais niveau bon goût c'était pas
+
+353
+00:14:41,000 --> 00:14:45,360
+vraiment au top il aurait peut-être
+
+354
+00:14:43,279 --> 00:14:47,160
+mieux fait de s'occuper de son équipe
+
+355
+00:14:45,360 --> 00:14:49,720
+qui pendant ce temps-là allait tout
+
+356
+00:14:47,160 --> 00:14:51,440
+droit au casspipe oui effectivement
+
+357
+00:14:49,720 --> 00:14:53,240
+pendant que da katana a commencait sa
+
+358
+00:14:51,440 --> 00:14:54,720
+campagne de promotion de l'autre côté tu
+
+359
+00:14:53,240 --> 00:14:56,440
+avais les programmeurs et les artistes
+
+360
+00:14:54,720 --> 00:14:58,199
+qui s'engueulaient et des systèmes de
+
+361
+00:14:56,440 --> 00:15:00,240
+jeux entiers qui étaient implantés et
+
+362
+00:14:58,199 --> 00:15:02,880
+servis à moitié non mais tiens regardez
+
+363
+00:15:00,240 --> 00:15:04,519
+voilà wouh j'ai level up génial et oui
+
+364
+00:15:02,880 --> 00:15:08,240
+parce que en plus d'être un mauvais FPS
+
+365
+00:15:04,519 --> 00:15:11,880
+da katana c'est aussi un mauvais
+
+366
+00:15:08,240 --> 00:15:16,600
+RPG super le jeu possède C statistiques
+
+367
+00:15:11,880 --> 00:15:19,279
+power Atta speed accro pour la CRR
+
+368
+00:15:16,600 --> 00:15:20,279
+branche je suppose et vitalité mais un
+
+369
+00:15:19,279 --> 00:15:22,279
+truc qui aurait été bien c'est par
+
+370
+00:15:20,279 --> 00:15:24,279
+exemple d'expliquer à quoi ça sert genre
+
+371
+00:15:22,279 --> 00:15:26,680
+c'est quoi la différence entre Power et
+
+372
+00:15:24,279 --> 00:15:28,000
+attaque ça ça sert à quoi la vitalité vu
+
+373
+00:15:26,680 --> 00:15:29,920
+que de toute façon mon nombre de PV est
+
+374
+00:15:28,000 --> 00:15:32,839
+limité à 200 c'est quoi
+
+375
+00:15:29,920 --> 00:15:34,920
+l'ACRO l'ro même pas vous êtes même pas
+
+376
+00:15:32,839 --> 00:15:36,240
+foutu de prendre une police lisible là
+
+377
+00:15:34,920 --> 00:15:37,440
+le seul truc que j'ai remarqué he c'est
+
+378
+00:15:36,240 --> 00:15:38,759
+qu'au bout de plusieurs heur de jeu
+
+379
+00:15:37,440 --> 00:15:40,720
+visiblement power avait l'air
+
+380
+00:15:38,759 --> 00:15:42,720
+d'augmenter mes dégâts voilà donc je
+
+381
+00:15:40,720 --> 00:15:44,920
+deviens plus puissant donc mes armes
+
+382
+00:15:42,720 --> 00:15:47,000
+deviennent plus puissantes
+
+383
+00:15:44,920 --> 00:15:51,240
+logique fatigué que vos balles ne
+
+384
+00:15:47,000 --> 00:15:53,639
+traversent pas les murs oui prenez des
+
+385
+00:15:51,240 --> 00:15:55,720
+vitamines mais c'est n'importe quoi dis
+
+386
+00:15:53,639 --> 00:15:57,600
+donc après le hors d'œuvre des égouts on
+
+387
+00:15:55,720 --> 00:15:59,440
+arrive donc dans la prison et il va être
+
+388
+00:15:57,600 --> 00:16:01,040
+l'heure de commencer à cliquer un pe
+
+389
+00:15:59,440 --> 00:16:02,839
+partout au hasard sur les différentes
+
+390
+00:16:01,040 --> 00:16:05,079
+consoles pour chercher les interrupteurs
+
+391
+00:16:02,839 --> 00:16:08,399
+cachés et on aura la joie d'entendre à
+
+392
+00:16:05,079 --> 00:16:08,399
+chaque fois votre personnage faire
+
+393
+00:16:13,680 --> 00:16:20,000
+ça c'est bon on a compris la blague pié
+
+394
+00:16:17,160 --> 00:16:22,480
+ou ah oui nous y voilà le grumeau dans
+
+395
+00:16:20,000 --> 00:16:25,839
+le lait le premier compagnon le
+
+396
+00:16:22,480 --> 00:16:29,800
+visuellement improbable Superfly
+
+397
+00:16:25,839 --> 00:16:32,959
+référence au film Superfly en effet
+
+398
+00:16:29,800 --> 00:16:36,040
+Romero dans ce jeu avait à l'esprit de
+
+399
+00:16:32,959 --> 00:16:38,880
+s'inspirer grandement d'un body movie
+
+400
+00:16:36,040 --> 00:16:41,120
+mais trop complexe manque de moyens et
+
+401
+00:16:38,880 --> 00:16:44,199
+de temps les compagnons étaient de la
+
+402
+00:16:41,120 --> 00:16:46,920
+merde tout simplement et si vous pensiez
+
+403
+00:16:44,199 --> 00:16:50,079
+déjà avoir tout vu baissez votre
+
+404
+00:16:46,920 --> 00:16:52,000
+ceinture et ouvrez grand votre cul
+
+405
+00:16:50,079 --> 00:16:54,079
+Superfly est l'ancien chef de la
+
+406
+00:16:52,000 --> 00:16:55,680
+sécurité de la prison où on se trouve et
+
+407
+00:16:54,079 --> 00:16:57,240
+bien sûr on peut compter sur son aide
+
+408
+00:16:55,680 --> 00:17:00,680
+précieuse pour nous aider à retrouver
+
+409
+00:16:57,240 --> 00:17:03,360
+Mik suis cher d'une jeune femme elle a
+
+410
+00:17:00,680 --> 00:17:05,760
+dû arriver il y a quelques semaines h
+
+411
+00:17:03,360 --> 00:17:07,400
+une asiatique oui c'est elle tu veux
+
+412
+00:17:05,760 --> 00:17:09,720
+dire que tu as vu une fille asiatique au
+
+413
+00:17:07,400 --> 00:17:12,919
+Japon oui c'est sûrement
+
+414
+00:17:09,720 --> 00:17:15,679
+elle mais déjà avant d'aller plus loin
+
+415
+00:17:12,919 --> 00:17:19,039
+excuse-moi candis je réalise maintenant
+
+416
+00:17:15,679 --> 00:17:22,160
+que tu étais loin d'être la
+
+417
+00:17:19,039 --> 00:17:24,280
+per les compagnons d'andai katana cétait
+
+418
+00:17:22,160 --> 00:17:25,880
+un des gros point de communication du
+
+419
+00:17:24,280 --> 00:17:27,679
+jeu les compagnons étaient d'ailleurs
+
+420
+00:17:25,880 --> 00:17:29,480
+une chose unique à cette version PC
+
+421
+00:17:27,679 --> 00:17:31,360
+puisque la version Nintendo 64 ne les
+
+422
+00:17:29,480 --> 00:17:32,840
+avait pas intégré tu passais ton temps à
+
+423
+00:17:31,360 --> 00:17:34,640
+te battre tout seul et à buter des
+
+424
+00:17:32,840 --> 00:17:36,400
+centaines d'ennemis et dès qu'une
+
+425
+00:17:34,640 --> 00:17:39,559
+cinématique
+
+426
+00:17:36,400 --> 00:17:41,679
+arrivait ho je pense que nous mais
+
+427
+00:17:39,559 --> 00:17:43,600
+ mais vous êtes qui merde je
+
+428
+00:17:41,679 --> 00:17:45,520
+ramasse donc Superfly et je monte d'un
+
+429
+00:17:43,600 --> 00:17:47,840
+étage quand ce dernier se dit qu'il aait
+
+430
+00:17:45,520 --> 00:17:49,720
+bien attaquer les robots géants amenu
+
+431
+00:17:47,840 --> 00:17:51,200
+évidemment il meurt et quand votre
+
+432
+00:17:49,720 --> 00:17:53,720
+compagnon meurt dans ce jeu et bien
+
+433
+00:17:51,200 --> 00:17:56,360
+c'est le game over oh je n'aime pas
+
+434
+00:17:53,720 --> 00:17:57,159
+cette direction du coup je vais plutôt
+
+435
+00:17:56,360 --> 00:17:58,400
+regarder de l'autre côté en fait
+
+436
+00:17:57,159 --> 00:18:00,400
+d'ailleurs alors j'ai pas précisé mais
+
+437
+00:17:58,400 --> 00:18:02,159
+je joue a une version patchée du jeu qui
+
+438
+00:18:00,400 --> 00:18:04,080
+me permet de cocher cette petite case
+
+439
+00:18:02,159 --> 00:18:05,600
+qui permet de sauvegarder n'importe où
+
+440
+00:18:04,080 --> 00:18:07,280
+parce que sans cette petite case et bien
+
+441
+00:18:05,600 --> 00:18:08,760
+j'aurais dû récupérer des cristaux de
+
+442
+00:18:07,280 --> 00:18:10,320
+sauvegarde qui limiteraiit le nombre de
+
+443
+00:18:08,760 --> 00:18:11,960
+fois où j'aurais pu sauvegarder un petit
+
+444
+00:18:10,320 --> 00:18:14,880
+peu à la manière du premier Tomb Raider
+
+445
+00:18:11,960 --> 00:18:16,440
+et je vais être transparent avec
+
+446
+00:18:14,880 --> 00:18:19,760
+vous
+
+447
+00:18:16,440 --> 00:18:21,080
+ah je m'adore bref heureusement
+
+448
+00:18:19,760 --> 00:18:22,600
+que le jeu a été patché pour les
+
+449
+00:18:21,080 --> 00:18:24,159
+sauve-gardes parce qu'un truc qu'il aime
+
+450
+00:18:22,600 --> 00:18:25,679
+bien faire c'est genre te piéger dans
+
+451
+00:18:24,159 --> 00:18:27,080
+des endroits où tu n'as aucun autre
+
+452
+00:18:25,679 --> 00:18:29,120
+choix à part bien aller te faire mettre
+
+453
+00:18:27,080 --> 00:18:30,919
+en attendant la mort ou aussi plusieurs
+
+454
+00:18:29,120 --> 00:18:33,679
+moments où ils ont placé un loading donc
+
+455
+00:18:30,919 --> 00:18:35,799
+une sauvegarde juste avant un mob
+
+456
+00:18:33,679 --> 00:18:37,480
+connard connard connard connard ou
+
+457
+00:18:35,799 --> 00:18:39,280
+encore mieux des sauvegarde automatique
+
+458
+00:18:37,480 --> 00:18:40,760
+où le jeu décide subitement que ça
+
+459
+00:18:39,280 --> 00:18:42,679
+serait une bonne idée de faire
+
+460
+00:18:40,760 --> 00:18:45,000
+apparaître 15 ennemis qui n'étaient pas
+
+461
+00:18:42,679 --> 00:18:47,240
+là avant le chargement vous êtes sérieux
+
+462
+00:18:45,000 --> 00:18:48,880
+là c'est quoi ce de peloton
+
+463
+00:18:47,240 --> 00:18:50,520
+d'exécution
+
+464
+00:18:48,880 --> 00:18:53,840
+subitement
+
+465
+00:18:50,520 --> 00:18:56,600
+mer maisah oui super allez merci au
+
+466
+00:18:53,840 --> 00:18:58,799
+chargement fait ça bravo
+
+467
+00:18:56,600 --> 00:19:00,440
+j'applaudis et en plus je commence bien
+
+468
+00:18:58,799 --> 00:19:03,280
+de dos et il y a l'autre connard au
+
+469
+00:19:00,440 --> 00:19:05,880
+milieu et
+
+470
+00:19:03,280 --> 00:19:07,720
+ mais mais pourquoi est-ce
+
+471
+00:19:05,880 --> 00:19:09,640
+que je dois vivre ça et pourquoi mon
+
+472
+00:19:07,720 --> 00:19:13,240
+personnage il nage dans la sauce tomate
+
+473
+00:19:09,640 --> 00:19:14,520
+j'y vois rien merde ok maintenant faites
+
+474
+00:19:13,240 --> 00:19:16,720
+preuve d'imagination pendant à peu près
+
+475
+00:19:14,520 --> 00:19:18,760
+une minute vos armes vous tuent il y a
+
+476
+00:19:16,720 --> 00:19:19,919
+des pièges et vous faites un game over à
+
+477
+00:19:18,760 --> 00:19:21,280
+chaque fois que l'un de vos compagnons
+
+478
+00:19:19,919 --> 00:19:25,039
+qui ont à peu près l'intelligence d'une
+
+479
+00:19:21,280 --> 00:19:27,120
+chaise pliante meurt le tout sans
+
+480
+00:19:25,039 --> 00:19:28,720
+sauvegarde j'en suis à un stade où je
+
+481
+00:19:27,120 --> 00:19:29,840
+pense que certains jeux ont été créés
+
+482
+00:19:28,720 --> 00:19:31,360
+uniquement pour tester ma patience en
+
+483
+00:19:29,840 --> 00:19:33,039
+fait et tu as oublié les dégâts de chut
+
+484
+00:19:31,360 --> 00:19:35,000
+et j'ai oublié les dégâts de chut katana
+
+485
+00:19:33,039 --> 00:19:36,360
+est-ce qui s'appelle fast FPS ce qui
+
+486
+00:19:35,000 --> 00:19:39,240
+veut dire que votre personnage passe de
+
+487
+00:19:36,360 --> 00:19:40,960
+zéro à 100 km/h en moins de 1 seconde
+
+488
+00:19:39,240 --> 00:19:43,080
+regardez à quel point je vais vite là
+
+489
+00:19:40,960 --> 00:19:45,679
+sans même avoir augmenté mes points en
+
+490
+00:19:43,080 --> 00:19:47,120
+vitesse à quel moment quelqu'un s'est
+
+491
+00:19:45,679 --> 00:19:48,880
+dit que dans un jeu comme ça avec une
+
+492
+00:19:47,120 --> 00:19:50,200
+vitesse pareille et un design si
+
+493
+00:19:48,880 --> 00:19:52,320
+vertical ça serait une bonne idée
+
+494
+00:19:50,200 --> 00:19:54,320
+d'ajouter des dégâts de chute ah
+
+495
+00:19:52,320 --> 00:19:56,679
+sérieusement je met même dans l'eau on
+
+496
+00:19:54,320 --> 00:19:58,080
+prend des dégâts bah ça il avait raison
+
+497
+00:19:56,679 --> 00:19:59,200
+Romero le jeu il marche tellement sur la
+
+498
+00:19:58,080 --> 00:20:00,679
+gueule queouis pour le coup j'ai
+
+499
+00:19:59,200 --> 00:20:03,559
+vraiment l'impression d'être sa
+
+500
+00:20:00,679 --> 00:20:05,080
+c'est combien 20 balles quoi bref donc
+
+501
+00:20:03,559 --> 00:20:06,679
+je recharge sur que si je décide de
+
+502
+00:20:05,080 --> 00:20:08,080
+partir loin devant mon compagnon
+
+503
+00:20:06,679 --> 00:20:09,600
+histoire de buter les ennemis loin
+
+504
+00:20:08,080 --> 00:20:11,160
+devant lui pour que lui ne se fasse pas
+
+505
+00:20:09,600 --> 00:20:17,039
+tuer
+
+506
+00:20:11,160 --> 00:20:19,640
+[Musique]
+
+507
+00:20:17,039 --> 00:20:25,849
+ok trè essai
+
+508
+00:20:19,640 --> 00:20:25,849
+[Musique]
+
+509
+00:20:38,280 --> 00:20:41,410
+[Applaudissements]
+
+510
+00:20:46,799 --> 00:20:50,679
+oui votre compagnon est visiblement très
+
+511
+00:20:48,960 --> 00:20:51,960
+émotionnellement investi he pour un mec
+
+512
+00:20:50,679 --> 00:20:54,159
+qui vous a rencontré il y a moins de 5
+
+513
+00:20:51,960 --> 00:20:56,480
+minutes donc je recharge la sauvegarde
+
+514
+00:20:54,159 --> 00:20:57,600
+je réussis à avancer un peu je tue les
+
+515
+00:20:56,480 --> 00:21:02,600
+ennemis
+
+516
+00:20:57,600 --> 00:21:05,720
+et il est il est mort dans la porte il
+
+517
+00:21:02,600 --> 00:21:08,000
+est mort dans la de porte je
+
+518
+00:21:05,720 --> 00:21:09,720
+je c'est ça qu'il aurait fallu mettre
+
+519
+00:21:08,000 --> 00:21:11,400
+sur la pub du métro là avec le lapin qui
+
+520
+00:21:09,720 --> 00:21:12,640
+se coince les doigts dans la porte ça ça
+
+521
+00:21:11,400 --> 00:21:16,080
+aurait vachement plus impressionné les
+
+522
+00:21:12,640 --> 00:21:17,440
+enfants non pas le lapin et oui je dis
+
+523
+00:21:16,080 --> 00:21:18,840
+vos compagnons parce qu'au bout de
+
+524
+00:21:17,440 --> 00:21:20,850
+quelques heures de jeu ce n'est pas un
+
+525
+00:21:18,840 --> 00:21:22,559
+compagnon mais deux qui vous
+
+526
+00:21:20,850 --> 00:21:25,960
+[Musique]
+
+527
+00:21:22,559 --> 00:21:28,039
+suivront pour deux fois plus de fun e
+
+528
+00:21:25,960 --> 00:21:29,440
+mikiko ça te dirait de venir avec moi et
+
+529
+00:21:28,039 --> 00:21:31,570
+de te coincer dans les murs comme une
+
+530
+00:21:29,440 --> 00:21:36,520
+conne avec l're débile
+
+531
+00:21:31,570 --> 00:21:40,559
+[Musique]
+
+532
+00:21:36,520 --> 00:21:42,279
+mental cool bienvenue donc à mikiko un
+
+533
+00:21:40,559 --> 00:21:47,200
+fille du vieux type du début une
+
+534
+00:21:42,279 --> 00:21:47,200
+sympathique demoiselle Swan
+
+535
+00:21:47,640 --> 00:21:52,559
+[Musique]
+
+536
+00:21:49,720 --> 00:21:54,360
+ok calme-toi Mussolini quelque chose me
+
+537
+00:21:52,559 --> 00:21:56,559
+dit cependant que ce personnage qui
+
+538
+00:21:54,360 --> 00:21:58,120
+cherche le Daikatana absolument qui tue
+
+539
+00:21:56,559 --> 00:21:59,799
+les gens des armées et qui propose de
+
+540
+00:21:58,120 --> 00:22:01,919
+laisser tomber mes alliés à la moindre
+
+541
+00:21:59,799 --> 00:22:03,679
+occasion nouvelle de Superfly pas la
+
+542
+00:22:01,919 --> 00:22:05,080
+moindre idée pourrait être n'importe où
+
+543
+00:22:03,679 --> 00:22:07,720
+autant l'oublier et nous échapper au
+
+544
+00:22:05,080 --> 00:22:09,720
+plus vite de cette horrible ah peut-être
+
+545
+00:22:07,720 --> 00:22:12,000
+quelque chose de louche lisons le livret
+
+546
+00:22:09,720 --> 00:22:14,240
+du jeu sa mère est morte quand elle
+
+547
+00:22:12,000 --> 00:22:18,279
+était jeune cela dit il est impossible
+
+548
+00:22:14,240 --> 00:22:18,279
+de savoir à quel point ce meurtre l'a
+
+549
+00:22:18,559 --> 00:22:24,080
+affecté trois petits
+
+550
+00:22:21,200 --> 00:22:25,799
+points c'est sûrement mon imagination
+
+551
+00:22:24,080 --> 00:22:27,400
+bref vos compagnons ne sont pas que de
+
+552
+00:22:25,799 --> 00:22:28,520
+simples PN qui vous suivent ils
+
+553
+00:22:27,400 --> 00:22:30,200
+possèdent tous les deux leur bar
+
+554
+00:22:28,520 --> 00:22:31,720
+d'armure mais aussi leurs armes et leurs
+
+555
+00:22:30,200 --> 00:22:33,279
+munitions donc il faudra aussi
+
+556
+00:22:31,720 --> 00:22:36,120
+régulièrement les laisser prendre vos
+
+557
+00:22:33,279 --> 00:22:37,400
+items vos armes ou vos mipacks enfin ça
+
+558
+00:22:36,120 --> 00:22:38,840
+c'est quand ils veulent bien parce que
+
+559
+00:22:37,400 --> 00:22:40,520
+dans la plupart des cas ils seront pris
+
+560
+00:22:38,840 --> 00:22:42,559
+de spasme de panique quand vous leur
+
+561
+00:22:40,520 --> 00:22:44,480
+demanderez de ramasser un objet et
+
+562
+00:22:42,559 --> 00:22:47,039
+encore ça c'est quand ils acceptent
+
+563
+00:22:44,480 --> 00:22:48,480
+prends l'armure certainement pas non
+
+564
+00:22:47,039 --> 00:22:50,400
+attends je t'ai pas demandé si tu étais
+
+565
+00:22:48,480 --> 00:22:52,559
+d'accord prends l'armure tel n'est pas
+
+566
+00:22:50,400 --> 00:22:54,760
+ma volonté c'est pas vrai mais je rêve
+
+567
+00:22:52,559 --> 00:22:56,799
+prends prends le soin bordel je n'en ai
+
+568
+00:22:54,760 --> 00:22:59,919
+pas l'intention tu as deux points de vie
+
+569
+00:22:56,799 --> 00:23:02,279
+ prends le soin
+
+570
+00:22:59,919 --> 00:23:05,880
+j'en veux pas j'aime pas la
+
+571
+00:23:02,279 --> 00:23:05,880
+couleur ça pique la
+
+572
+00:23:06,440 --> 00:23:11,120
+langue évidemment le jeu ne te laisse
+
+573
+00:23:09,120 --> 00:23:12,559
+pas finir le niveau sans tes compagnons
+
+574
+00:23:11,120 --> 00:23:13,919
+donc à partir de ce moment-là les choses
+
+575
+00:23:12,559 --> 00:23:15,880
+prennent rapidement la tournure d'une
+
+576
+00:23:13,919 --> 00:23:19,440
+gigantesque quête d'escorte où tu dois
+
+577
+00:23:15,880 --> 00:23:21,760
+accompagner deux bébés suicidaires
+
+578
+00:23:19,440 --> 00:23:23,480
+non bon alors après vous pouvez quand
+
+579
+00:23:21,760 --> 00:23:26,520
+même donner quelques commande basique he
+
+580
+00:23:23,480 --> 00:23:28,720
+du style suis-moi reste ici ramasse cet
+
+581
+00:23:26,520 --> 00:23:30,000
+item je jure que je vais te mettre Doig
+
+582
+00:23:28,720 --> 00:23:32,080
+dans le cul si tu continues à te coincer
+
+583
+00:23:30,000 --> 00:23:33,919
+partout mais c'est pareil là je dis à
+
+584
+00:23:32,080 --> 00:23:36,919
+mon compagnon de rester là je pars seul
+
+585
+00:23:33,919 --> 00:23:41,039
+devant lui pour nettoyer et il s'est
+
+586
+00:23:36,919 --> 00:23:45,760
+fait tuer par des mouches l'ennemi le
+
+587
+00:23:41,039 --> 00:23:47,559
+plus de basique du jeu quand je
+
+588
+00:23:45,760 --> 00:23:50,279
+dis reste là ça veut pas dire ne te
+
+589
+00:23:47,559 --> 00:23:52,120
+défends pas par pitié évidemment ça
+
+590
+00:23:50,279 --> 00:23:54,240
+serait trop simple je peux pas juste
+
+591
+00:23:52,120 --> 00:23:56,039
+appuyer sur un bouton d'ordre du genre
+
+592
+00:23:54,240 --> 00:23:57,880
+suis-moi en étant un petit peu plus loin
+
+593
+00:23:56,039 --> 00:23:59,840
+devant eux pour qu'ils me rejoignent non
+
+594
+00:23:57,880 --> 00:24:02,159
+non surtout ou pas à chaque fois que je
+
+595
+00:23:59,840 --> 00:24:03,760
+veux leur donner un ordre je suis obligé
+
+596
+00:24:02,159 --> 00:24:05,840
+de faire tout le niveau en arrière
+
+597
+00:24:03,760 --> 00:24:07,960
+jusqu'à eux pour leur sessurer à
+
+598
+00:24:05,840 --> 00:24:10,400
+l'oreille
+
+599
+00:24:07,960 --> 00:24:14,480
+suis-moi bref on va pas rester mil an
+
+600
+00:24:10,400 --> 00:24:14,480
+là-dessus finissons avec un bestof
+
+601
+00:24:24,240 --> 00:24:28,609
+[Applaudissements]
+
+602
+00:24:25,520 --> 00:24:28,609
+[Musique]
+
+603
+00:24:38,980 --> 00:24:42,919
+[Musique]
+
+604
+00:24:40,799 --> 00:24:45,600
+inspiré d'un Bud movie ce truc c'est
+
+605
+00:24:42,919 --> 00:24:47,880
+quoi le Budy movie cet hiver ne ratez
+
+606
+00:24:45,600 --> 00:24:52,559
+pas le bu movie qui va faire sensation
+
+607
+00:24:47,880 --> 00:24:52,559
+je vaiser dans le couvremi et ce coup fa
+
+608
+00:24:54,440 --> 00:25:01,520
+pas John et la chaise pliante vous allez
+
+609
+00:24:58,640 --> 00:25:03,919
+en de de
+
+610
+00:25:01,520 --> 00:25:06,200
+rire après avoir donc récupéré le
+
+611
+00:25:03,919 --> 00:25:07,960
+Daikatana on rencontre Mishima qui a
+
+612
+00:25:06,200 --> 00:25:11,200
+voyager dans le temps parce que la
+
+613
+00:25:07,960 --> 00:25:13,120
+souure du temps bref on s'en fout il
+
+614
+00:25:11,200 --> 00:25:17,240
+possède lui aussi le Daikatana et nous
+
+615
+00:25:13,120 --> 00:25:19,120
+dit crois ou même sffleuré le monde tel
+
+616
+00:25:17,240 --> 00:25:22,840
+que nous le connaissons cesserait
+
+617
+00:25:19,120 --> 00:25:24,360
+d'exister et nous serions tous anéantis
+
+618
+00:25:22,840 --> 00:25:26,200
+après quoi il décide de nous tuer en
+
+619
+00:25:24,360 --> 00:25:28,320
+nous envoyant voyager dans le temps non
+
+620
+00:25:26,200 --> 00:25:29,279
+pitié non ne fais pas ça ça marchera pas
+
+621
+00:25:28,320 --> 00:25:31,240
+c'est très bien ça marche jamais dans
+
+622
+00:25:29,279 --> 00:25:35,279
+les scénario ce genre de merde mais fa à
+
+623
+00:25:31,240 --> 00:25:37,960
+ce cauchemar par pitié qu'on en finisse
+
+624
+00:25:35,279 --> 00:25:40,200
+non et nous voilà donc arrivés en Grèce
+
+625
+00:25:37,960 --> 00:25:42,159
+sans nos
+
+626
+00:25:40,200 --> 00:25:43,640
+compagnons évidemment on retrouve bien
+
+627
+00:25:42,159 --> 00:25:45,039
+vite castor et Polux avant de se faire
+
+628
+00:25:43,640 --> 00:25:46,760
+un nouveau téléporter ce coupci au
+
+629
+00:25:45,039 --> 00:25:48,720
+Moyen-Âge l'occasion pour mikiko de
+
+630
+00:25:46,760 --> 00:25:52,600
+briller par ses talents de déduction ce
+
+631
+00:25:48,720 --> 00:25:52,600
+ne serait pas un village là-bas
+
+632
+00:25:53,919 --> 00:25:58,559
+oui
+
+633
+00:25:55,720 --> 00:25:59,919
+mikiko on y aura bien sûr notre de
+
+634
+00:25:58,559 --> 00:26:01,960
+nouvelles armes comme l'arme qui tire
+
+635
+00:25:59,919 --> 00:26:05,480
+des boules empoisonnées qui rebondissent
+
+636
+00:26:01,960 --> 00:26:07,159
+partout repose ça tout de suite ou
+
+637
+00:26:05,480 --> 00:26:09,120
+d'autres armes dont le but m'échappe
+
+638
+00:26:07,159 --> 00:26:10,640
+complètement comme le marteau d'ADES qui
+
+639
+00:26:09,120 --> 00:26:13,120
+visiblement ne sert à rien par
+
+640
+00:26:10,640 --> 00:26:15,000
+s'infliger des dégâts à soi-même oh mon
+
+641
+00:26:13,120 --> 00:26:16,320
+dieu toute façon ça veut dire quoi le
+
+642
+00:26:15,000 --> 00:26:17,520
+marteau d'ADES ça existe même pas et
+
+643
+00:26:16,320 --> 00:26:18,919
+pourquoi pas la corn mususe de Jésus
+
+644
+00:26:17,520 --> 00:26:20,240
+aussi bref faites comme si ce niveaux
+
+645
+00:26:18,919 --> 00:26:22,320
+n'existaient pas et on arrive donc à Los
+
+646
+00:26:20,240 --> 00:26:24,600
+Angeles en 2030 pour le niveau final et
+
+647
+00:26:22,320 --> 00:26:26,559
+ce niveau c'est un peu le boss des tests
+
+648
+00:26:24,600 --> 00:26:28,480
+de patience pour voir si vous méritez la
+
+649
+00:26:26,559 --> 00:26:30,480
+fin du jeu regardez-mo ça qu'est-ce que
+
+650
+00:26:28,480 --> 00:26:33,039
+c'est que ce bordel on est où là dans ce
+
+651
+00:26:30,480 --> 00:26:34,480
+quid game bon allez courage on est
+
+652
+00:26:33,039 --> 00:26:36,880
+presque arrivé au bout du tunnel le pire
+
+653
+00:26:34,480 --> 00:26:36,880
+est derrière
+
+654
+00:26:37,360 --> 00:26:41,840
+nous j'ai l'attention de hamster que tu
+
+655
+00:26:40,360 --> 00:26:45,919
+es frais à coup de fusil à pompe mais
+
+656
+00:26:41,840 --> 00:26:45,919
+c'est bon on est au boss final
+
+657
+00:26:56,880 --> 00:27:01,760
+ok c'est tu es bizarre et après un
+
+658
+00:26:59,799 --> 00:27:03,360
+affrontement contre Mishima horriblement
+
+659
+00:27:01,760 --> 00:27:04,919
+dur où il faut faire super attention à
+
+660
+00:27:03,360 --> 00:27:06,559
+ce que les Sabres ne se touchent pas
+
+661
+00:27:04,919 --> 00:27:08,799
+parce que sinon absolument rien ne se
+
+662
+00:27:06,559 --> 00:27:10,200
+passe mikiko plante Superfly dans le dos
+
+663
+00:27:08,799 --> 00:27:13,200
+et vous trahit pour s'emparer du
+
+664
+00:27:10,200 --> 00:27:15,080
+Daikatana oh mon dieu quel incroyable
+
+665
+00:27:13,200 --> 00:27:17,120
+retournement c'est donc l'heure du
+
+666
+00:27:15,080 --> 00:27:18,600
+véritable boss fin c'est déjà fini je
+
+667
+00:27:17,120 --> 00:27:19,600
+vais même pas commenter ça je veux juste
+
+668
+00:27:18,600 --> 00:27:21,080
+dire que je suis heureux que ça soit
+
+669
+00:27:19,600 --> 00:27:23,480
+terminé pour le reste on se reverra au
+
+670
+00:27:21,080 --> 00:27:25,039
+procès ho rétablit la ligne temporelle
+
+671
+00:27:23,480 --> 00:27:26,600
+je sais pas trop comment et enferme le
+
+672
+00:27:25,039 --> 00:27:28,760
+sabre sous sa maison comme dans le Davin
+
+673
+00:27:26,600 --> 00:27:30,120
+chicode Kimiko est en vie avec Superfly
+
+674
+00:27:28,760 --> 00:27:33,919
+dans une autre ligne temporelle et
+
+675
+00:27:30,120 --> 00:27:33,919
+attendez je rouvre la lettre du
+
+676
+00:27:34,159 --> 00:27:39,919
+début tellement après 3 ans de douleur
+
+677
+00:27:37,880 --> 00:27:41,399
+et mout problème le rush final pour
+
+678
+00:27:39,919 --> 00:27:44,360
+sortir le jeu commence avec pour
+
+679
+00:27:41,399 --> 00:27:46,480
+objectif Noël 99 mais c'est encore un
+
+680
+00:27:44,360 --> 00:27:48,000
+échec hein le délai est dépassé et les
+
+681
+00:27:46,480 --> 00:27:49,880
+quelques semaines que s'était accordé
+
+682
+00:27:48,000 --> 00:27:51,880
+l'équipe pour peaufiner les détails se
+
+683
+00:27:49,880 --> 00:27:55,440
+transfore rapidement en un crunch de
+
+684
+00:27:51,880 --> 00:27:58,360
+plusieurs mois et dans le temps et la
+
+685
+00:27:55,440 --> 00:28:00,679
+douleur le jeu fut accouché après la
+
+686
+00:27:58,360 --> 00:28:03,440
+démission de plusieurs directeurs et
+
+687
+00:28:00,679 --> 00:28:06,840
+d'un tas d'employés une année entière de
+
+688
+00:28:03,440 --> 00:28:09,240
+labeur 14 he par jour à cravacher sous
+
+689
+00:28:06,840 --> 00:28:12,799
+la chaleur des ordinateurs pour faire
+
+690
+00:28:09,240 --> 00:28:14,960
+d'un bol de merde un Stak haché détail
+
+691
+00:28:12,799 --> 00:28:18,559
+amusant dans une des filiale de la
+
+692
+00:28:14,960 --> 00:28:21,679
+société sans Romero sur le dos les gens
+
+693
+00:28:18,559 --> 00:28:24,480
+faisaient de la qualité à l'image de cet
+
+694
+00:28:21,679 --> 00:28:27,039
+autre jeu créé par un studio annexe qui
+
+695
+00:28:24,480 --> 00:28:30,679
+reçut des avis élogieux et dont le nom
+
+696
+00:28:27,039 --> 00:28:33,360
+est Deo au sexe et maintenant que
+
+697
+00:28:30,679 --> 00:28:37,360
+l'histoire est finie quelle est donc la
+
+698
+00:28:33,360 --> 00:28:40,399
+morale mes braves amis à vouloir voler
+
+699
+00:28:37,360 --> 00:28:43,600
+trop haut Romero s'est brûlé les ailes
+
+700
+00:28:40,399 --> 00:28:44,960
+il s'imaginait être le héros mais il
+
+701
+00:28:43,600 --> 00:28:47,799
+oublia
+
+702
+00:28:44,960 --> 00:28:52,399
+l'essentiel lorsque l'envie vous prend
+
+703
+00:28:47,799 --> 00:28:55,600
+d'essayer quelque chose de bien abandonn
+
+704
+00:28:52,399 --> 00:28:58,240
+rapidement avant d'échouer comme un
+
+705
+00:28:55,600 --> 00:29:01,240
+chieny
+
+706
+00:28:58,240 --> 00:29:01,240
+Noël
+
+707
+00:29:02,640 --> 00:30:03,939
+[Musique]
+
